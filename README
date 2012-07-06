@@ -1,1 +1,5 @@
-this is where i learn to program and make emergently complicated things in one dimension
+very simple implementation of 1D cellular automata using python and pygame.
+
+mostly a basic experiment in pygame, left unfinished for now.
+
+note:  interesting consequences when playing around with the idea of state and antistate

@@ -77,7 +77,7 @@ whiteColor = pygame.Color(255,255,255)
 liveColor = pygame.Color(0,0,0)
 
 
-liveSet = set( ((1,0,0),(0,0,1),(1,1,0),(0,1,1),(0,1,0),(1,0,1)) )
+liveSet = set( ((0,0,1),(1,1,0),(0,1,1),(0,1,0),(1,0,1)) )
 
 environment = []
 
