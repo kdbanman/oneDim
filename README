@@ -2,4 +2,6 @@ very simple implementation of 1D cellular automata using python and pygame.
 
 mostly a basic experiment in pygame, left unfinished for now.
 
+ruledoc.py generates ruledoc.xml, an xml file with some properties for each of the possible rulesets for outer-totalistic 1d automata
+
 note:  interesting consequences when playing around with the idea of state and antistate
